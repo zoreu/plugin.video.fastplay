@@ -1,1 +1,1 @@
-url=""
+url="https://github.com/zoreu/plugin.video.fastplay/raw/main/update_11_12_2022.zip"
